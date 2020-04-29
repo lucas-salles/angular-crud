@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #202020;
+}
+
+.header .logo {
+  max-height: 8rem;
+}
+
+.header .title-group i {
+  padding-right: 5px;
+}
